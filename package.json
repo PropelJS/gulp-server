@@ -1,0 +1,30 @@
+{
+  "name": "gulp-server",
+  "version": "1.0.0",
+  "description": "Gulp Integration for API Servers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProwlJS/gulp-server.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Server",
+    "ProwlJS"
+  ],
+  "author": "Joshwa Fugett <jfugett27@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProwlJS/gulp-server/issues"
+  },
+  "homepage": "https://github.com/ProwlJS/gulp-server",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz",
+    "istanbul": "git://github.com/gotwarlost/istanbul.git#harmony",
+    "mocha": "^1.21.4"
+  }
+}
