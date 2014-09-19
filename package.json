@@ -1,6 +1,6 @@
 {
   "name": "gulp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp Integration for API Servers",
   "main": "lib/index.js",
   "scripts": {
