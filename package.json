@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ProwlJS/gulp-server",
   "dependencies": {
     "gulp": "^3.8.8",
-    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz",
+    "gulp-module": "git://github.com/PropelJS/gulp-module",
     "istanbul": "git://github.com/gotwarlost/istanbul.git#harmony",
     "mocha": "^1.21.4"
   }
